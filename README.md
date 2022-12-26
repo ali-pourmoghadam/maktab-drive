@@ -14,14 +14,14 @@
 	-fileManager.php : handles directory opration and keep traking of user path
 	-validation.php : form request validation
  
-2.## database :
+2. ## database :
 	-database.json : actual database
 
-3. pages (view files)
+3. ## pages (view files)
 
-4. public (css , js)
+4. ## public (css , js)
 
-5. storage (contains space for uploaded file of each user)
+5. ## storage (contains space for uploaded file of each user)
 
 
 
