@@ -1,0 +1,67 @@
+.register-container{
+    position: relative;
+    top: 140px;
+    height: 510px;
+}
+.register-custom{
+    height:500px ;
+    border-radius: 10px;
+    border: 1px solid rgb(227, 227, 227);
+    opacity: 0;
+    transition: all ease-in-out 1s;
+}
+
+.register-custom div{
+    height: 100%;
+    flex: 1;
+   
+}
+.register-custom div:nth-child(odd){
+    border-radius: 10px 0px 0px 10px;
+}
+.register-custom div:nth-child(even){
+    border-radius: 0px 10px 10px 0px;
+}
+
+.custom-register-img{
+    border-radius: 10px 0px 0px 10px;
+    object-fit: cover !important; 
+    height: 100%;
+    width: 100%;
+    padding-top: 5px;
+}
+
+.form-register-custom{
+    width: 80% !important;
+    margin-top: 30px !important;
+}
+.input-register-custom{
+    margin-top: 5px !important;
+    height: 33px !important;
+    font-size: 13px !important;
+}
+
+.btn-register-custom{
+    width: 100px !important;
+    height: 33px !important;
+    padding: 0px !important;
+    font-size: 14px !important;
+    border-radius: 15px !important;
+    margin-top: 30px !important;
+}
+
+.regsiter-guide-login{
+    position: relative;
+}
+
+.pagedeActive{
+    display: none !important;
+}
+.pageActive{
+    display: block !important;
+}
+
+.upload-modal-txt{
+    padding: 10px;
+    font-size: 0.9rem;
+}
