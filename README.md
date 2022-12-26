@@ -7,7 +7,7 @@
 -database which used in maktab-drive is nosql-datbase(josn) and there is no need to import or create external database 
  
 
-# steructure :
+# structure :
 
 1. ## app :
 	-databse.php : get request form user and doing crud opration based on tree 
