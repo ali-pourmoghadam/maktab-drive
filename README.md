@@ -17,11 +17,14 @@
 2. ## database :
 	-database.json : actual database
 
-3. ## pages (view files)
+3. ## pages :
+	-view files
 
-4. ## public (css , js)
+4. ## public :
+	- css and js files
 
-5. ## storage (contains space for uploaded file of each user)
+5. ## storage :
+	-contains space for uploaded file of each user
 
 
 
